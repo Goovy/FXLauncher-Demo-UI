@@ -1,5 +1,7 @@
 ### Custom FXLauncher Update UI
 
+*Original repo is [here](https://github.com/edvin/fxlauncher-custom-ui).*
+
 This example project shows you how you can customize the look and feel of the
 FXLauncher user interface.
 
