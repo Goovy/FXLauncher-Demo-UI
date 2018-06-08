@@ -1,0 +1,29 @@
+.updater .label {
+    -fx-text-fill: white;
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-font-family: Tahoma;
+}
+
+.updater .h1 {
+    -fx-font-size: 55px;
+}
+
+.updater .h2 {
+    -fx-font-size: 14px;
+    -fx-font-weight: normal;
+    -fx-text-fill: rgba(255,255,255,0.8);
+}
+
+.updater {
+    -fx-background-color: linear-gradient(#028aff, #003780);
+    -fx-background-image: url("updater-bg.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat: stretch;
+    -fx-padding: 20px;
+}
+
+.updater .progress-bar {
+    -fx-pref-width: 300px;
+}
+
